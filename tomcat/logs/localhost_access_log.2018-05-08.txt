@@ -1,0 +1,9 @@
+172.22.0.1 - - [08/May/2018:10:29:50 +0000] "GET / HTTP/1.1" 200 11250
+172.22.0.1 - - [08/May/2018:10:29:53 +0000] "GET /manager/html HTTP/1.1" 401 2473
+172.22.0.1 - - [08/May/2018:10:30:38 +0000] "GET /manager/html HTTP/1.1" 401 2473
+172.22.0.1 - admin [08/May/2018:10:30:41 +0000] "GET /manager/html HTTP/1.1" 200 17671
+172.22.0.1 - - [08/May/2018:10:30:41 +0000] "GET /manager/images/tomcat.gif HTTP/1.1" 200 2066
+172.22.0.1 - - [08/May/2018:10:30:41 +0000] "GET /manager/images/asf-logo.svg HTTP/1.1" 200 20486
+172.22.0.1 - - [08/May/2018:10:30:41 +0000] "GET /favicon.ico HTTP/1.1" 200 21630
+172.22.0.1 - admin [08/May/2018:10:31:01 +0000] "GET /manager/status;jsessionid=8621D0AF800C2D0F432D2D3F404FECE8?org.apache.catalina.filters.CSRF_NONCE=90838852C33C571344990E1FDBE32C0F HTTP/1.1" 200 7185
+172.22.0.1 - admin [08/May/2018:10:31:13 +0000] "GET /manager/status HTTP/1.1" 200 7355
